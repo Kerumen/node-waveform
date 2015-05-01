@@ -1,0 +1,28 @@
+{
+  "name": "node-waveform",
+  "version": "1.0.0",
+  "description": "Convert an audio file to an svg waveform",
+  "main": "waveform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerumen/node-waveform.git"
+  },
+  "keywords": [
+    "node",
+    "waveform",
+    "svg"
+  ],
+  "author": "Kerumen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kerumen/node-waveform/issues"
+  },
+  "homepage": "https://github.com/Kerumen/node-waveform#readme",
+  "devDependencies": {
+    "lame": "^1.2.1",
+    "wav": "^0.1.2"
+  }
+}
