@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/Kerumen/node-waveform#readme",
   "devDependencies": {
+    "audiodata": "0.0.2",
     "lame": "^1.2.1",
-    "wav": "^0.1.2"
+    "wav": "^0.1.2",
+    "wav-decoder": "^0.2.1"
   }
 }
